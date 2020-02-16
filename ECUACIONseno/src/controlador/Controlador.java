@@ -7,7 +7,7 @@
  */
 
 
-package senoPaquete;
+package controlador;
 
 import java.util.Scanner;
 

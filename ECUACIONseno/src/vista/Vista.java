@@ -6,9 +6,11 @@
  * copyRight
  */
 
-package senoPaquete;
+package vista;
 
 import java.util.Scanner;
+
+import controlador.Controlador;
 
 public class Vista {
 	public void impresion() {

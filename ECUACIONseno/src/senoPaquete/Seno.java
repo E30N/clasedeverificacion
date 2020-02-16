@@ -9,6 +9,8 @@ package senoPaquete;
 
 import java.util.Scanner;
 
+import vista.Vista;
+
 public class Seno {
 
 	public static void main(String[] args) {
